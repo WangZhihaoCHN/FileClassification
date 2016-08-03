@@ -1,0 +1,5 @@
+buying:string:vhigh,high,med,low
+maint:string:vhigh,high,med,low
+doors:string:2,3,4,5more
+lug_boot:string:small,med,big
+values:unacc,acc,good,vgood

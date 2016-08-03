@@ -1,0 +1,5 @@
+buying:string:vhigh,high,med,low
+maint:string:vhigh,high,med,low
+persons:string:2,4,more
+safety:string:low,med,high
+values:unacc,acc,good,vgood
